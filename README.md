@@ -4,9 +4,10 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Ravina-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Ravina-yellow)](https://stackoverflow.com/users/20600831/ravina-patil)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm student, learning Full Stack Web Development at edureka!
+I have completed graduation from B.Sc-IT.
+Known languages are - c,c++,java,html,css,python,sql,etc.
+Intrested to learn how to make live websites.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
@@ -141,13 +142,11 @@ Languages and Tools:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+<a href="patilravina000@gmail.com" target-"_blank" rel="noreferrer">patilravina000@gmail.com</a>
 - ⚡ Fun fact: .....
 
 -->
