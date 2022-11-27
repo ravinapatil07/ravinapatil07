@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ravina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravina-patil-198437258/)](https://www.linkedin.com/in/ravina-patil-198437258/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/20600831/ravina-patil)
+[![Website Badge](https://img.shields.io/badge/WebSite-Ravina-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Ravina-yellow)](https://stackoverflow.com/users/20600831/ravina-patil)
 
 I'm
 Full Stack Solution Architect
